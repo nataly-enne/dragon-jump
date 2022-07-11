@@ -12,8 +12,8 @@
     margin: 0 auto;
     position: relative;
     overflow: hidden;
-    border-bottom: 15px solid rgb(35, 160, 35);
-    background: linear-gradient(#87CEEB, #E0F6FF);
+    border-bottom: 15px solid rgb(6, 116, 6);
+    background: linear-gradient(#13A5FB, #E0F6FF);
 }
 
 .pipe {
